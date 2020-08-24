@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Test 1 ",
-      "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "name": "Test1",
+      "setup": "",
+      "run": "gradle test",
       "input": "",
       "output": "",
       "comparison": "included",
